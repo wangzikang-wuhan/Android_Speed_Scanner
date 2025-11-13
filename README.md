@@ -1,0 +1,2 @@
+# Android_Speed_Scanner
+这是一个OCR识别的AndroidApp
